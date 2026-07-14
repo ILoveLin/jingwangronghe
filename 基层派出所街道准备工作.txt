@@ -1,0 +1,30 @@
+产品定位是什么，能解决什么问题，解决派出所  街道办什么工作
+重点人员，场所，检查与管控，具体化参考什么工作规范
+警网融合公共方案
+综合平台，综合采集，综合机制
+
+
+
+1格友圈事件要有标签
+协同圈，老百姓反应的不同类型事件，默认都能辖区圈内都能看
+部门发布的事件，自定义可见范围和条线
+
+2，工作推荐的前期准备工作，我们需要自己罗列出需要做的事情，需要准备的，避免到时候去沟通不知道说什么
+比如，派出所和街道目前在使用的平台，小程序
+比如，派出所和街道关注的重点场所，重点人，已经如何管理，他们的侧重点肯定是不同的
+
+
+通过Xmind 来逻辑梳理出
+
+
+
+MySQL 学习资料
+	文档类：
+		MySQL入门必备：一文吃透表的增删改查（CRUD）全操作
+		https://cloud.tencent.com.cn/developer/article/2608021
+	视频类：
+		https://www.bilibili.com/video/BV1wa15BoEDQ/?spm_id_from=333.337.search-card.all.click&vd_source=0a26d5b669636e65e470d1b1c288659d
+		
+	在线编写和测试网页：
+		https://onecompiler.com/mysql#draft-hewj
+		https://www.w3schools.com/mySQl/mysql_select.asp
